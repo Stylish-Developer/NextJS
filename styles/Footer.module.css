@@ -1,0 +1,10 @@
+.footer {
+    height: 250px;
+    background-color: #000000;
+
+}
+
+.footerText {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+}

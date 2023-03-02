@@ -1,0 +1,5 @@
+/* CSS Modules locally scope css by automatically creating a unique class
+name which allows you to use the same className in different files 
+without having to worry about name collision 
+*/ 
+
